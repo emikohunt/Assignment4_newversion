@@ -32,6 +32,7 @@ $(document).ready(function(){
 		if(cityType == 'ATX' || cityType == 'Austin'){
 			$('body').css('background-image','url(images/austin.jpg)');
 		}
+	
 	});
 		
 	
